@@ -13,4 +13,4 @@ Date | Theme
 25.03.2019 | Problems solving
 01.04.2019 | Free day (FAMCS's birthday)
 08.04.2019 | Free day (EGMO 2019)
-25.03.2019 | [Compactness](./notes/lec_4.pdf)
+15.04.2019 | [Compactness](./notes/lec_4.pdf)
