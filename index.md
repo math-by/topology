@@ -10,4 +10,7 @@ Date | Theme
 04.03.2019 | [Topology spaces](./notes/lec_2.pdf)
 11.03.2019 | Problems solving
 18.03.2019 | [Continuity and separation](./notes/lec_3.pdf)
+25.03.2019 | Problems solving
+01.04.2019 | Free day (FAMCS's birthday)
+08.04.2019 | Free day (EGMO 2019)
 25.03.2019 | [Compactness](./notes/lec_4.pdf)
