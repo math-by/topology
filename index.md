@@ -14,3 +14,4 @@ Date | Theme
 01.04.2019 | Free day (FAMCS's birthday)
 08.04.2019 | Free day (EGMO 2019)
 15.04.2019 | [Compactness](./notes/lec_4.pdf)
+22.04.2019 | [Connected spaces](./notes/lec_5.pdf)
