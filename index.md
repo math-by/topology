@@ -15,3 +15,6 @@ Date | Theme
 08.04.2019 | Free day (EGMO 2019)
 15.04.2019 | [Compactness](./notes/lec_4.pdf)
 22.04.2019 | [Connected spaces](./notes/lec_5.pdf)
+29.04.2019 | Problems solving
+06.05.2019 | Free day
+13.05.2019 | [Complete metric spaces](./notes/lec_6.pdf)
