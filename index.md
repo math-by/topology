@@ -19,3 +19,4 @@ Date | Theme
 06.05.2019 | Free day
 13.05.2019 | [Complete metric spaces](./notes/lec_6.pdf)
 20.05.2019 | [Filters](./notes/lec_7.pdf)
+27.05.2019 | [Cantor set](./notes/lec_8.pdf)
