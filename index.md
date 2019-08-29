@@ -1,4 +1,4 @@
-## Spring 2019
+## General Topology, Spring 2019
 
 ### Schedule
 
