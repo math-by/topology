@@ -1,4 +1,4 @@
-## Spring 2019
+# Spring 2019
 
 ### Schedule
 
