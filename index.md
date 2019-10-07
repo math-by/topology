@@ -6,7 +6,7 @@ On Monday at 14:30, room 256
 
 ### Lecture notes
 
-Date | Theme
+**Date** | **Theme**
 ---- | -----
 25.02.2019 | [Metric spaces](./spring-2019/notes/lec_1.pdf)
 04.03.2019 | [Topology spaces](./spring-2019/notes/lec_2.pdf)
